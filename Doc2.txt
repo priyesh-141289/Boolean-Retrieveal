@@ -1,0 +1,13 @@
+
+Area	Primary Skills	Secondary Skills
+Business Areas	Travel , Finance, Retail	
+Operating Systems	UNIX, MS Windows XP/7/10	
+Programming Languages	Python, SQL, PL/SQL, Unix Shell Scripting	
+Databases	Snowflake ,Oracle, My SQL, SQL Server	
+ETL Tools	Informatica Power Center 10.x, Matillion 1.44	AWS Glue
+Scheduling Tools	Data Warehouse Admin Console (DAC) 10.1.3.4	
+Reporting	OBIEE 11.1.1	Tableau
+Cloud Platform	AWS	EC2, S3,IAM, VPC
+DB Application Tools	Toad 10, SQL Developer, PLSQL Developer	
+Productivity Tools	MS Office Suite, Open Office	
+Project Management Tools	HP Quality Center, Service Now	

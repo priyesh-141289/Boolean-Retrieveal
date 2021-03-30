@@ -1,0 +1,37 @@
+
+
+TECHNICAL SKILLS 
+
+•	CMS 	
+
+
+
+
+AEM (6.1, 6.4) 
+
+•	AEM Topics 
+
+
+
+•	Client Side Scripting	I18n, OSGi, Sling, JCR, Sightly, Clientlibs, Run Modes, Replication, Workflows, Components, Templates, Scheduler, Sling Servlets, Query Builder, Content Fragments, Content Fragment Models, Experience fragments, Assets.
+HTML, AngularJS, Ajax, Json, Jquery
+•	Programming Language 	JAVA 
+
+•	Web Technologies 	JSP, Servlets, HTML, CSS 
+
+
+•	Frameworks 	Spring, Hibernate 
+
+•	Database 	MySQL 
+
+•	Web Servers 	Jenkins, iPlanet and Tomcat
+
+•	Others 	Maven, Jenkins, WinScp, putty, Xshell, SVN 
+
+
+
+
+
+
+
+

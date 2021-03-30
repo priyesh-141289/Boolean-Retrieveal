@@ -1,0 +1,75 @@
+
+
+Technical Skills
+
+
+
+Expertise	AEM, Core Java, JavaScript, JSON, JQuery
+CMS	AEM6.4, AEM 6.3, AEM 6.1, CQ5 
+Database	Oracle, MySQL server
+Operating System  	Windows, Linux
+Server 	CQ5 Servlet Engine, Tomcat, Apache
+Technical Skills	HTL, CSS, JavaScript
+Tools & API	Eclipse, CRXDE, CRXDELite
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Professional Experience
+
+	Worked as Programmer Analyst – Projects in Cognizant Technology Solutions. (From April 2016). 
+	Working as an AEM Associate-L2 in Sapient Corporation. (From March 2018).
+
+
+
+PROJECTS UNDERTAKEN
+     
+
+Sapient Corporation, AEM Developer-Associate L2
+Client & Project	Merck(Now known as P&G)
+Description	
+	Merck Consumer Health is a fully integrated division of the German chemical and pharmaceutical company Merck KGaA.
+	The site has been developed in AEM 6.1 and new features in AEM 6.3 is in progress.
+Role	AEM Developer
+Responsibility /
+Highlights	
+	Developed various touch UI custom components in sightly and JSP both.
+	Worked on integration with JQuery. Has handled work involving Front-end skills.
+	Worked and delivered new feature of BUY NOW used as part of products selling.  
+	Has given support for different brands of Merck CH.
+	Worked on creating Sling Models and generating JSONs for each component.
+	 Created many Services and Servlets for retrieving dynamic data and proper functioning of it. 
+	 Worked on building and generating Sitemap.xml for the whole site
+	 robots.txt in many search engines.
+Environment/Tools	 AEM 6.3, CRXDE
+Work Location	Offshore-Gurgaon, India
+
+
+Cognizant Technology Solutions(CTS), Programmer Analyst
+Client & Project	Wideroe
+Description	
+	This is an air ticket booking website based out of Norway.
+	The site is in progress and being developed in AEM6.3.
+Role	CQ5 Developer
+Responsibility /
+Highlights	
+	Developed various touch UI custom components in sightly.
+	Worked on integration with AngularJS as entire site is based on angular.
+	Handling customer requirements and providing solution.
+	Developed multilingual website utilizing AEM locale concept.
+  
+Environment/Tools	 AEM 6.3, CRXDE
+Work Location	Offshore-Pune, India
+
+
+
+
+
